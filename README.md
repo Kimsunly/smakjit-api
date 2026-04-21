@@ -435,37 +435,9 @@ Protected routes
 
 ---
 
-# 🛣️ Roadmap
+# 👨‍💻 Team
 
-### Phase 1
-
-Authentication module
-
-### Phase 2
-
-User + role management
-
-### Phase 3
-
-Event management
-
-### Phase 4
-
-Volunteer workflow system
-
-### Phase 5
-
-Application approval workflow
-
-### Phase 6
-
-Production deployment preparation
-
----
-
-# 👨‍💻 Author
-
-**KimsunLy**
+**KimsunLy** **LyMengHong** **RethChanRith** **PechSuyHeng** **MeachKimHab** **ThoeurnKimChhay**
 
 Information Technology and Engineering Student
 Royal University of Phnom Penh
