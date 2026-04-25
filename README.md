@@ -26,7 +26,7 @@ This repository contains the backend API powering the platform.
 
 ### Backend Framework
 
-* Laravel 11
+* Laravel 13
 
 ### Database
 
